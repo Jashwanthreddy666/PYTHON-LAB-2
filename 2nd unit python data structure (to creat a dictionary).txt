@@ -1,11 +1,11 @@
 # python data structure (to creat a dictionary)
 
 name = {
-    "name": "kavan",
-    "place": "Murnad",
-    "family": "Pudiyokkada"
+    "name": "jashwanth reddy",
+    "place": "kolar",
+    "family": "reddys"
 }
 print(name["name"])
-name["father name"] = "dinesh"
+name["father name"] = "somnath reddy"
 name.pop("family")
 print(name)
